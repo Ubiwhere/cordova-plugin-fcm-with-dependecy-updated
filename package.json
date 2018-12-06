@@ -1,16 +1,42 @@
 {
-  "version": "2.3.0",
-  "name": "cordova-plugin-fcm-with-dependecy-updated",
-  "cordova_name": "Cordova FCM Push Plugin",
-  "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
-  "license": "MIT",
-  "repo": "",
-  "issue": "",
-  "author": "André Augusto Tissot",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated"
+  "_from": "cordova-plugin-fcm-with-dependecy-updated",
+  "_id": "cordova-plugin-fcm-with-dependecy-updated@2.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-D0IuRcJIfa5ZZy436GgThaB52+ilIW2w8NLagJOPpaW37BOe2ajBQqVsBVYzqCKJsTH0l4xtZ1naP71ysMWS8w==",
+  "_location": "/cordova-plugin-fcm-with-dependecy-updated",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-fcm-with-dependecy-updated",
+    "name": "cordova-plugin-fcm-with-dependecy-updated",
+    "escapedName": "cordova-plugin-fcm-with-dependecy-updated",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fcm-with-dependecy-updated/-/cordova-plugin-fcm-with-dependecy-updated-2.3.0.tgz",
+  "_shasum": "c37cc96ff296a92cc16046ded665f8c32c8107d4",
+  "_spec": "cordova-plugin-fcm-with-dependecy-updated",
+  "_where": "/Users/joaopedrosa/Projects/app-aguas-do-porto",
+  "author": {
+    "name": "André Augusto Tissot"
+  },
+  "bugs": {
+    "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Cordova FCM Push Plugin",
+  "deprecated": false,
+  "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
+  "engines": [],
+  "englishdoc": "",
+  "homepage": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated#readme",
+  "issue": "",
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
@@ -23,10 +49,16 @@
     "android",
     "cordova"
   ],
+  "license": "MIT",
+  "name": "cordova-plugin-fcm-with-dependecy-updated",
   "platforms": [
     "android",
     "ios"
   ],
-  "engines": [],
-  "englishdoc": ""
+  "repo": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git"
+  },
+  "version": "2.3.0"
 }
