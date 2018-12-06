@@ -58,8 +58,8 @@
 				</feature>
 		</config-file>
 
-        <framework src="com.google.firebase:firebase-core:10.+" />
-        <framework src="com.google.firebase:firebase-messaging:10.+" />
+        <framework src="com.google.firebase:firebase-core:12.0.1" />
+        <framework src="com.google.firebase:firebase-messaging:12.0.1" />
 
 		<framework src="src/android/FCMPlugin.gradle" custom="true" type="gradleReference"/>
 
@@ -121,3 +121,4 @@
 	<hook src="scripts/fcm_config_files_process.js" type="after_prepare" />
 
 </plugin>
+
